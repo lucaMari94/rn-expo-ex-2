@@ -1,1 +1,1 @@
-# rn-expo-ex-2
+# rn-expo-ex-2: Guess my number Game
